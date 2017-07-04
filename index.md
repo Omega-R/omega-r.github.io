@@ -13,7 +13,7 @@ Custom NavigationMenu imitate NavigationDrawer
 ```
 
 ### OmegaSoftKeyboard
-[github](https://github.com/Omega-R/OmegaSoftKeyboard) [website](https://omega-r.github.io/OmegaSoftKeyboard)
+[github](https://github.com/Omega-R/OmegaSoftKeyboard) [website](https://omega-r.github.io/OmegaKeyboard)
 ```
 Keyboard with additional functionality, allow adding listener
 ```
