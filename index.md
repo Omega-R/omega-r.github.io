@@ -25,10 +25,10 @@ Custom NavigationMenu imitate NavigationDrawer
 ```
 
 ### OmegaSoftKeyboard
-<a href="https://github.com/Omega-R/OmegaSoftKeyboard">
+<a href="https://github.com/Omega-R/OmegaKeyboard">
   <img src="/images/github.ico" height="32" width="32">
 </a>
-<a href="https://omega-r.github.io/OmegaSoftKeyboard">
+<a href="https://omega-r.github.io/OmegaKeyboard">
   <img src="/images/favicon.ico" height="32" width="32">
 </a> 
 
