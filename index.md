@@ -3,12 +3,16 @@
 
 Custom RecyclerView allow you add divider
 
+----------------------------------------------------------------------------------------------------------------------------
+
 ### [OmegaNavigationMenu](https://omega-r.github.io/OmegaNavigationMenu)
 [View on GitHub](https://github.com/Omega-R/OmegaNavigationMenu) [![GitHub Logo](/images/github.ico)](https://github.com/Omega-R/OmegaNavigationMenu)
 
 Custom NavigationMenu imitate NavigationDrawer
 
 <img src="/images/navigation_menu.gif" alt="Demo Screen Capture" width="300px" />
+
+----------------------------------------------------------------------------------------------------------------------------
 
 ### [OmegaSoftKeyboard](https://omega-r.github.io/OmegaKeyboard)
 [View on GitHub](https://github.com/Omega-R/OmegaKeyboard) [![GitHub Logo](/images/github.ico)](https://github.com/Omega-R/OmegaKeyboard)
@@ -22,6 +26,8 @@ A small android library to transition between a circular ImageView from one Acti
 
 <img src="/images/image_transition.gif" alt="Demo Screen Capture" width="300px" />
 
+----------------------------------------------------------------------------------------------------------------------------
+
 ### [Material Calendar View](external/material_calendar_view)
 [View on GitHub](https://github.com/prolificinteractive/material-calendarview) [![GitHub Logo](/images/github.ico)](https://github.com/prolificinteractive/material-calendarview)
 
@@ -29,12 +35,16 @@ A Material design back port of Android's CalendarView. The goal is to have a Mat
 
 <img src="/images/material_calendar.gif" alt="Demo Screen Capture" width="300px" />
 
+----------------------------------------------------------------------------------------------------------------------------
+
 ### [SwipeMenu](external/swipe_menu)
 [View on GitHub](https://github.com/TUBB/SwipeMenu) [![GitHub Logo](/images/github.ico)](https://github.com/TUBB/SwipeMenu)
 
 A swipe menu for horizontal/vertical, support left/right add top/bottom directions
 
 <img src="/images/swipe_menu.gif" alt="Demo Screen Capture" width="300px" />
+
+----------------------------------------------------------------------------------------------------------------------------
 
 ### [android-permissions](external/android_permission)
 [View on GitHub](https://github.com/nishkarsh/android-permissions) [![GitHub Logo](/images/github.ico)](https://github.com/nishkarsh/android-permissions)
