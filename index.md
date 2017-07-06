@@ -19,6 +19,8 @@ Custom NavigationMenu imitate NavigationDrawer
 
 Keyboard with additional functionality, allow adding listener
 
+----------------------------------------------------------------------------------------------------------------------------
+
 ### [OmegaImageTransition](https://omega-r.github.io/OmegaImageTransition)
 [View on GitHub](https://github.com/Omega-R/OmegaImageTransition) [![GitHub Logo](/images/github.ico)](https://github.com/Omega-R/OmegaImageTransition)
 
