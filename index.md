@@ -3,6 +3,8 @@
 
 Custom RecyclerView allow you add divider
 
+<img src="/images/recycler_view.gif" alt="Demo Screen Capture" width="300px" />
+
 ----------------------------------------------------------------------------------------------------------------------------
 
 ### [OmegaNavigationMenu](https://omega-r.github.io/OmegaNavigationMenu)
@@ -18,6 +20,8 @@ Custom NavigationMenu imitate NavigationDrawer
 [View on GitHub](https://github.com/Omega-R/OmegaKeyboard) [![GitHub Logo](/images/github.ico)](https://github.com/Omega-R/OmegaKeyboard)
 
 Keyboard with additional functionality, allow adding listener
+
+<img src="/images/omega_keyboard.gif" alt="Demo Screen Capture" width="300px" />
 
 ----------------------------------------------------------------------------------------------------------------------------
 
