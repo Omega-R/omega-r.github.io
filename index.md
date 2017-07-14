@@ -25,12 +25,12 @@ Keyboard with additional functionality, allow adding listener
 
 ----------------------------------------------------------------------------------------------------------------------------
 
-### [OmegaImageTransition](https://omega-r.github.io/OmegaImageTransition)
-[View on GitHub](https://github.com/Omega-R/OmegaImageTransition) [![GitHub Logo](/images/github.ico)](https://github.com/Omega-R/OmegaImageTransition)
+### [OmegaRoundingImageView](https://omega-r.github.io/OmegaRoundingImageView)
+[View on GitHub](https://github.com/Omega-R/OmegaRoundingImageView) [![GitHub Logo](/images/github.ico)](https://github.com/Omega-R/OmegaRoundingImageView)
 
 A small android library to transition between a circular ImageView from one Activity to a rectangular ImageView in the launched Activity
 
-<img src="/images/image_transition.gif" alt="Demo Screen Capture" width="300px" />
+<img src="/images/sample.gif" alt="Demo Screen Capture" width="300px" />
 
 ----------------------------------------------------------------------------------------------------------------------------
 
