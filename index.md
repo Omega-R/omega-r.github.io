@@ -56,3 +56,10 @@ A swipe menu for horizontal/vertical, support left/right add top/bottom directio
 [View on GitHub](https://github.com/nishkarsh/android-permissions) [![GitHub Logo](/images/github.ico)](https://github.com/nishkarsh/android-permissions)
 
 An android library that makes it really easy to deal with dynamic permissions. Based on the context, library automatically decides whether to show a dialog (in case app is in foreground) or a notification (in case permission is required by a background service)
+
+----------------------------------------------------------------------------------------------------------------------------
+
+### [OmegaIntentBuilder](https://omega-r.github.io/OmegaIntentBuilder)
+[View on GitHub](https://github.com/Omega-R/OmegaIntentBuilder) [![GitHub Logo](/images/github.ico)](https://github.com/nishkarsh/android-permissions)
+
+An android library that makes it really easy for sharing data between activities. OmegaIntentBuilder provides helper functions for constructing a sharing intent, call intent, email intent.
