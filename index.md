@@ -59,7 +59,7 @@ An android library that makes it really easy to deal with dynamic permissions. B
 
 ----------------------------------------------------------------------------------------------------------------------------
 
-### [OmegaIntentBuilder](https://omega-r.github.io/OmegaIntentBuilder)
+### [OmegaIntentBuilder](external/OmegaIntentBuilder)
 [View on GitHub](https://github.com/Omega-R/OmegaIntentBuilder) [![GitHub Logo](/images/github.ico)](https://github.com/nishkarsh/android-permissions)
 
 An android library that makes it really easy for sharing data between activities. OmegaIntentBuilder provides helper functions for constructing a sharing intent, call intent, email intent.
