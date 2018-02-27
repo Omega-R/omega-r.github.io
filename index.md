@@ -45,6 +45,7 @@ OmegaDate it's cover for java.Util.Calendar with expandable functions.
 [View on GitHub](https://github.com/Omega-R/OmegaIntentBuilder) [![GitHub Logo](/images/github.ico)](https://github.com/nishkarsh/android-permissions)
 
 An android library that makes it really easy for sharing data between activities. OmegaIntentBuilder provides helper functions for constructing a sharing intent, call intent, email intent.
+
 ----------------------------------------------------------------------------------------------------------------------------
 
 ### [Material Calendar View](external/material_calendar_view)
